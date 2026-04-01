@@ -1,0 +1,12 @@
+{
+  "companyName": "Runbook Hotel",
+  "description": {
+    "header": "Runbook Hotel"
+  },
+  "address": {
+    "street": "123 Placeholder St",
+    "postcode": "00-001",
+    "city": "Warsaw",
+    "country": "Poland"
+  }
+}

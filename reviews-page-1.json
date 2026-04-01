@@ -1,0 +1,110 @@
+{
+  "reviews": [
+    {
+      "id": "runbook-review-1",
+      "stars": 5,
+      "createdAt": "2026-03-25T10:00:00Z",
+      "consumer": {
+        "displayName": "Alice Example",
+        "id": "alice-1"
+      },
+      "title": "Great placeholder review",
+      "text": "This is a fake review served from local JSON.",
+      "companyReply": {
+        "text": "Thanks for the feedback.",
+        "createdAt": "2026-03-25T11:00:00Z"
+      }
+    },
+    {
+      "id": "runbook-review-2",
+      "stars": 4,
+      "createdAt": "2026-03-24T09:30:00Z",
+      "consumer": {
+        "displayName": "Bob Example",
+        "id": "bob-2"
+      },
+      "title": "Second placeholder review",
+      "text": "Another fake review to validate parsing.",
+      "companyReply": {
+        "text": "Appreciate the note.",
+        "createdAt": "2026-03-24T10:00:00Z"
+      }
+    },
+    {
+      "id": "runbook-review-3",
+      "stars": 3,
+      "createdAt": "2026-03-23T08:15:00Z",
+      "consumer": {
+        "displayName": "Carol Example",
+        "id": "carol-3"
+      },
+      "title": "Average placeholder review",
+      "text": "This review helps test pagination-free batches.",
+      "companyReply": {
+        "text": "Thanks for sharing your experience.",
+        "createdAt": "2026-03-23T09:00:00Z"
+      }
+    },
+    {
+      "id": "runbook-review-4",
+      "stars": 5,
+      "createdAt": "2026-03-22T14:05:00Z",
+      "consumer": {
+        "displayName": "David Example",
+        "id": "david-4"
+      },
+      "title": "Very useful fake review",
+      "text": "Using this to test larger review payloads locally.",
+      "companyReply": {
+        "text": "Glad the stay went well.",
+        "createdAt": "2026-03-22T15:10:00Z"
+      }
+    },
+    {
+      "id": "runbook-review-5",
+      "stars": 2,
+      "createdAt": "2026-03-21T16:45:00Z",
+      "consumer": {
+        "displayName": "Eva Example",
+        "id": "eva-5"
+      },
+      "title": "Lower-score fake review",
+      "text": "This one exists so score mapping is not uniform.",
+      "companyReply": {
+        "text": "We will improve this.",
+        "createdAt": "2026-03-21T18:00:00Z"
+      }
+    },
+    {
+      "id": "runbook-review-6",
+      "stars": 4,
+      "createdAt": "2026-03-20T12:20:00Z",
+      "consumer": {
+        "displayName": "Frank Example",
+        "id": "frank-6"
+      },
+      "title": "Another review for mapping",
+      "text": "Extra fixture data for manual parser validation.",
+      "companyReply": {
+        "text": "Thanks for the review.",
+        "createdAt": "2026-03-20T13:00:00Z"
+      }
+    },
+    {
+      "id": "runbook-review-7",
+      "stars": 5,
+      "createdAt": "2026-03-19T07:50:00Z",
+      "consumer": {
+        "displayName": "Grace Example",
+        "id": "grace-7"
+      },
+      "title": "Seventh fake review",
+      "text": "Seventh review in the local stub response.",
+      "companyReply": {
+        "text": "Appreciate the detailed feedback.",
+        "createdAt": "2026-03-19T08:30:00Z"
+      }
+    }
+  ],
+  "links": []
+}
