@@ -134,6 +134,21 @@
         "text": "Appreciate the detailed feedback.",
         "createdAt": "2026-04-10T07:50:00Z"
       }
+    },
+    {
+      "id": "runbook-review-10",
+      "stars": 1,
+      "createdAt": "2026-04-11T09:50:00Z",
+      "consumer": {
+        "displayName": "Grace Example",
+        "id": "grace-7"
+      },
+      "title": "10th fake review",
+      "text": "10th review in the local stub response.",
+      "companyReply": {
+        "text": "Appreciate the detailed feedback.",
+        "createdAt": "2026-04-10T07:50:00Z"
+      }
     }
   ],
   "links": []
