@@ -9,11 +9,7 @@
         "id": "alice-1"
       },
       "title": "Great placeholder review",
-      "text": "This is a fake review served from local JSON.",
-      "companyReply": {
-        "text": "Thanks for the feedback.",
-        "createdAt": "2026-03-25T11:00:00Z"
-      }
+      "text": "This is a fake review served from local JSON."
     },
     {
       "id": "runbook-review-2",
@@ -24,11 +20,7 @@
         "id": "bob-2"
       },
       "title": "Second placeholder review",
-      "text": "Another fake review to validate parsing.",
-      "companyReply": {
-        "text": "Appreciate the note.",
-        "createdAt": "2026-03-24T10:00:00Z"
-      }
+      "text": "Another fake review to validate parsing."
     },
     {
       "id": "runbook-review-3",
@@ -39,11 +31,7 @@
         "id": "carol-3"
       },
       "title": "Average placeholder review",
-      "text": "This review helps test pagination-free batches.",
-      "companyReply": {
-        "text": "Thanks for sharing your experience.",
-        "createdAt": "2026-03-23T09:00:00Z"
-      }
+      "text": "This review helps test pagination-free batches."
     },
     {
       "id": "runbook-review-4",
@@ -54,11 +42,7 @@
         "id": "david-4"
       },
       "title": "Very useful fake review",
-      "text": "Using this to test larger review payloads locally.",
-      "companyReply": {
-        "text": "Glad the stay went well.",
-        "createdAt": "2026-03-22T15:10:00Z"
-      }
+      "text": "Using this to test larger review payloads locally."
     },
     {
       "id": "runbook-review-5",
@@ -69,11 +53,7 @@
         "id": "eva-5"
       },
       "title": "Lower-score fake review",
-      "text": "This one exists so score mapping is not uniform.",
-      "companyReply": {
-        "text": "We will improve this.",
-        "createdAt": "2026-03-21T18:00:00Z"
-      }
+      "text": "This one exists so score mapping is not uniform."
     },
     {
       "id": "runbook-review-6",
@@ -84,11 +64,7 @@
         "id": "frank-6"
       },
       "title": "Another review for mapping",
-      "text": "Extra fixture data for manual parser validation.",
-      "companyReply": {
-        "text": "Thanks for the review.",
-        "createdAt": "2026-03-20T13:00:00Z"
-      }
+      "text": "Extra fixture data for manual parser validation."
     },
     {
       "id": "runbook-review-7",
@@ -99,11 +75,7 @@
         "id": "grace-7"
       },
       "title": "Seventh fake review",
-      "text": "Seventh review in the local stub response.",
-      "companyReply": {
-        "text": "Appreciate the detailed feedback.",
-        "createdAt": "2026-03-19T08:30:00Z"
-      }
+      "text": "Seventh review in the local stub response."
     },
     {
       "id": "runbook-review-8",
@@ -114,11 +86,7 @@
         "id": "grace-7"
       },
       "title": "Eight fake review",
-      "text": "Eight review in the local stub response.",
-      "companyReply": {
-        "text": "Appreciate the detailed feedback.",
-        "createdAt": "2026-04-10T07:50:00Z"
-      }
+      "text": "Eight review in the local stub response."
     },
     {
       "id": "runbook-review-9",
@@ -129,11 +97,7 @@
         "id": "grace-7"
       },
       "title": "9th fake review",
-      "text": "9th review in the local stub response.",
-      "companyReply": {
-        "text": "Appreciate the detailed feedback.",
-        "createdAt": "2026-04-10T07:50:00Z"
-      }
+      "text": "9th review in the local stub response."
     },
     {
       "id": "runbook-review-10",
@@ -144,11 +108,7 @@
         "id": "grace-7"
       },
       "title": "10th fake review",
-      "text": "10th review in the local stub response.",
-      "companyReply": {
-        "text": "Appreciate the detailed feedback.",
-        "createdAt": "2026-04-10T07:50:00Z"
-      }
+      "text": "10th review in the local stub response."
     },
     {
       "id": "runbook-review-11",
@@ -159,11 +119,7 @@
         "id": "grace-7"
       },
       "title": "11th fake review",
-      "text": "11th review in the local stub response.",
-      "companyReply": {
-        "text": "Appreciate the detailed feedback.",
-        "createdAt": "2026-04-22T07:50:00Z"
-      }
+      "text": "11th review in the local stub response."
     },
     {
       "id": "runbook-review-12",
@@ -174,11 +130,7 @@
         "id": "grace-7"
       },
       "title": "12th fake review",
-      "text": "12th review in the local stub response.",
-      "companyReply": {
-        "text": "Appreciate the detailed feedback.",
-        "createdAt": "2026-04-22T10:50:00Z"
-      }
+      "text": "12th review in the local stub response."
     },
     {
       "id": "runbook-review-13",
@@ -189,12 +141,7 @@
         "id": "grace-7"
       },
       "title": "13th fake review",
-      "text": "13th review in the local stub response.",
-      "companyReply": {
-        "text": "Appreciate the detailed feedback.",
-        "createdAt": "2026-04-22T11:50:00Z"
-      }
+      "text": "13th review in the local stub response."
     }
-  ],
-  "links": []
+  ]
 }
